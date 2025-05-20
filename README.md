@@ -25,7 +25,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-
+TSConfig     11 mins         ███████████████▓░░░░░░░░░   62.34 %
+HTML         3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
+TypeScript   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
 ```
 
 <!--END_SECTION:waka-->
