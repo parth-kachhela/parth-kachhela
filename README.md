@@ -25,10 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Prisma       34 mins         ███████████████████▓░░░░░   78.88 %
-SQL          5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
-TSConfig     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
