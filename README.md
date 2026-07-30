@@ -5,17 +5,17 @@
 
 ### Glad to see you here!
 
-👋 Hi, I'm Parth Kachhela, an aspiring Computer Engineer currently pursuing a BSc in Information Technology at Atmiya University. I'm deeply passionate about Software Development and dedicated to academic excellence.
+👋 Hi, I'm Parth Kachhela, a Software Engineer and Founder of Sylvorn Labs. I specialize in building scalable, production-ready web applications and digital products using modern technologies.
 
-💻 I have a growing skill set in technologies including Docker, Git, GitHub, Linux, HTML, CSS, JavaScript, Typescript, Node.js, React.js, MongoDB, MySQL, PostgreSQL, and more.
+💻 I work with Next.js, React.js, TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, Prisma, Tailwind CSS, Git, GitHub, Docker, and Linux. I focus on clean architecture, performance, security, and developing practical solutions that solve real-world business problems.
 
-🚀 I'm driven to become a Software Engineer and am excited about contributing to an IT company. I love learning new technologies and am always eager to expand my knowledge and skills.
+🚀 As the Founder of Sylvorn Labs, I work with my team to build custom websites, SaaS platforms, e-commerce solutions, admin panels, ERP and CRM systems, mobile applications, APIs, automation tools, and AI-powered digital products.
 
 **Talking about Personal Stuffs:**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on A real-time chate app;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Web Devlopement on [Apna college](https://www.apnacollege.in);
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; Software Engineer passionate about full-stack product development.
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Founder of Sylvorn Labs.[Sylvorn labs](https://www.labs.sylvorn.com);
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Building scalable web, mobile, SaaS, and business applications.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: parthkachhela78@gmail.ocm;
 
 </br>
